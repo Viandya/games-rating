@@ -1,0 +1,24 @@
+{
+  "name": "games-rating",
+  "version": "1.0.0",
+  "description": "games-rating",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viandya/games-rating.git"
+  },
+  "author": "Renisme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viandya/games-rating/issues"
+  },
+  "homepage": "https://github.com/Viandya/games-rating#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
